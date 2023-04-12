@@ -20,15 +20,15 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
   <p>本LOGO是由人工智能生成的，非常酷炫！</p>
 </div>
 
-[点击这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
+[点击这里](https://github.com/rzrcazk/awesome-chatgpt-prompts-zh/blob/main/README.md) 可以将您自己的调教指南添加到列表中。
 
 同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
 
 ### **ChatGPT成品独享帐号：[购买](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)**
 
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
+**[在 GitHub 上查看](https://github.com/rzrcazk/awesome-chatgpt-prompts-zh)**
 
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
+[//]: # (**[在 Gitee 上查看]&#40;https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh&#41;**)
 
 ------
 
